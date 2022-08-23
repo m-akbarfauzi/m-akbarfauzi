@@ -4,8 +4,8 @@
 </a>
 <p align="center">Follow me on</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/m-akbarfauzi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/m-akbarfauzi" height="30" width="50" /></a>
+<a href="https://facebook.com/m.akbarfz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m-akbarfauzi" height="30" width="50" /></a> 
 <a href="https://instagram.com/m_akbarfauzi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m-akbarfauzi" height="30" width="50" /></a>
-<a href="https://youtube.com/MuhammadAkbarFauzii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m-akbarfauzi" height="30" width="50" /></a>
-<a href="https://facebook.com/m.akbarfz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m-akbarfauzi" height="30" width="50" /></a>  
+<a href="https://www.linkedin.com/in/m-akbarfauzi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/m-akbarfauzi" height="30" width="50" /></a>
+<a href="https://youtube.com/MuhammadAkbarFauzii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m-akbarfauzi" height="30" width="50" /></a> 
 </p>
